@@ -1,0 +1,13 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="-3.2 -3.2 38.40 38.40" xml:space="preserve" width="40px" height="40px" fill="#3fee7c" stroke="#3fee7c"
+><g id="SVGRepo_bgCarrier" stroke-width="0"></g>
+    <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round" stroke="#CCCCCC"
+       stroke-width="0.384"></g>
+    <g id="SVGRepo_iconCarrier"> <line style="fill:none;stroke:#4fe8b5;stroke-width:2;stroke-miterlimit:10;" x1="3"
+                                       y1="29" x2="13.926" y2="18.074"></line>
+        <polyline style="fill:none;stroke:#4fe8b5;stroke-width:2;stroke-miterlimit:10;"
+                  points="29,14 18,14 18,3 "></polyline>
+        <polyline style="fill:none;stroke:#4fe8b5;stroke-width:2;stroke-miterlimit:10;"
+                  points="3,18 14,18 14,29 "></polyline>
+        <line style="fill:none;stroke:#4fe8b5;stroke-width:2;stroke-miterlimit:10;" x1="18.085" y1="13.915" x2="29"
+              y2="3"></line> </g></svg>
